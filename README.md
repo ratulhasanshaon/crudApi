@@ -3,7 +3,7 @@
 ![Endpoint](../master/apiSnipShot/django-crud-api.png)
 
 
-In this project, I created CRUD api with django. let’s discuss about crud django api using django and django rest framework. I created a basic Django To-Do app and then convert it into a web API using serializers, viewsets, and routers.
+In this project, I created CRUD api with django. To make api endpoint I used django and django rest framework. I created a basic To-Do app and then convert it into a web API using serializers, viewsets, and routers.
 
 ## Installation
 ```
