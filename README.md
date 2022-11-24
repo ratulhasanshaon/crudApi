@@ -24,7 +24,7 @@ python manage.py runserver
 
 ## UpdateApi Request 
 
-![viewEndPoint](../master/apiSnipShot/putApi.png)
+![viewEndPoint](../master/apiSnipShot/updateApi.png)
 
 ## ViewApi Request 
 
