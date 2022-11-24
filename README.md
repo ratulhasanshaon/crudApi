@@ -18,6 +18,10 @@ python manage.py runserver
 ```
 
 
-## View-Api-Request with Postman
+## Create Request with Postman
 
 ![view](../master/apiSnipShot/postApi.png)
+
+## Update and View Api Request 
+
+![viewEndPoint](../master/apiSnipShot/putApi.png)
