@@ -18,11 +18,11 @@ python manage.py runserver
 ```
 
 
-## Create Request with Postman
+## Create Todo List with POST Request
 
 ![view](../master/apiSnipShot/postApi.png)
 
-## UpdateApi Request 
+## Update Todo List wit PUT Request 
 
 ![viewEndPoint](../master/apiSnipShot/updateApi.png)
 
